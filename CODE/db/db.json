@@ -1,0 +1,102 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "title": "ALLU ALLU",
+      "singer": "VIJAY",
+      "genre": "VIBE",
+      "imgUrl": "https://i.ytimg.com/vi/PnbkUtTAYOs/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD5EywQNd9lQqSVl1FWCXa_2EyhuA",
+      "songUrl": "Songs/Allu_Allu_(KuttyWeb.com).mp3"
+    },
+    {
+      "id": "2",
+      "title": "Chaleya",
+      "singer": "Arijit Singh",
+      "genre": "Romantic",
+      "imgUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202309/chaleya-song-141618193-1x1.jpg?VersionId=4H9DEXybp0zu2rGuku7n_C2z8stxuBJZ",
+      "songUrl": "Songs/chaleya.mp3"
+    },
+    {
+      "id": "3",
+      "title": "adugada",
+      "singer": "VEL MURUGAN",
+      "genre": "vibe",
+      "imgUrl": "https://c-cdnet.cdn.smule.com/smule-gg-s-sf-bck3/arr/24/0a/891d7da3-11d0-48d9-81a0-5cc2b043d069.jpg",
+      "songUrl": "Songs/Aadungada-VmusiQ.Com.mp3"
+    },
+    {
+      "id": "4",
+      "title": "AALAPORAAN THAMIZHAN",
+      "singer": "vijay",
+      "genre": "vibe",
+      "imgUrl": "https://i.ytimg.com/vi/B2HIRXchGII/maxresdefault.jpg",
+      "songUrl": "Songs/Aalaporaan Thamizhan.mp3"
+    },
+    {
+      "id": "5",
+      "title": "ELLAPUGALUM",
+      "singer": "vijay",
+      "genre": "vibe",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj7L-9tANtHdOJiZjac96Xs1ns6yuELHUOAQ&s",
+      "songUrl": "Songs/Ellapugalum.mp3"
+    },
+    {
+      "id": "6",
+      "title": "THODU VAANAM",
+      "singer": "DHANUSH",
+      "genre": "BREAK UP",
+      "imgUrl": "https://i.ytimg.com/vi/it34xdsiicM/mqdefault.jpg",
+      "songUrl": "Songs/Thodu_Vaanam-StarMusiQ.Com.mp3"
+    },
+    {
+      "id": "7",
+      "title": "UDHUNGADA SANGU",
+      "singer": "DHANUSH",
+      "genre": "VIBE",
+      "imgUrl": "https://i.ytimg.com/vi/utdNx-n8xg4/maxresdefault.jpg",
+      "songUrl": "Songs/Udhungada Sangu - TamilTunes.com.mp3"
+    },
+    {
+      "id": "8",
+      "title": "VALAYAPATTI",
+      "singer": "VIJAY",
+      "genre": "LOVE",
+      "imgUrl": "https://a10.gaanacdn.com/gn_img/albums/VdNW0JMKo5/dNW0OaD23o/size_m.jpg",
+      "songUrl": "Songs/Valayapatti.mp3"
+    },
+    {
+      "id": "9",
+      "title": "VARAVA VARAVA",
+      "singer": "ANIRUDH",
+      "genre": "REVENGE",
+      "imgUrl": "https://c.saavncdn.com/139/Naanum-Rowdy-Dhaan-Tamil-2015-500x500.jpg",
+      "songUrl": "Songs/Varava-Varava.mp3"
+    },
+    {
+      "id": "10",
+      "title": "VILAYAADU MANKATHA",
+      "singer": "U1",
+      "genre": "MASS",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm_LQA26Y49CqPGdsqe-ptrB08kI80kFlCYg&s",
+      "songUrl": "Songs/Vilayaadu Mankatha.mp3"
+    },
+    {
+      "id": "11",
+      "title": "VROOM VROOM",
+      "singer": "ANIRUDH",
+      "genre": "DRIVING",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273dd9cc5b113c080f9c4fb3111",
+      "songUrl": "Songs/Vroom_Vroomm-StarMusiQ.Com.mp3"
+    },
+    {
+      "id": "12",
+      "title": "WHAT A KARAVAD",
+      "singer": "DHANUSH",
+      "genre": "VIBE",
+      "imgUrl": "https://images.genius.com/a149c157f166a3fe85b2587e6cbf2320.1000x891x1.jpg",
+      "songUrl": "Songs/What A Karavad - TamilTunes.com.mp3"
+    }
+  ],
+  "favorities": [],
+  "playlist": []
+}

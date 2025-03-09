@@ -1,0 +1,72 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+
+.topbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #ec4040;
+  padding: 20px 30px;
+  position: sticky;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
+.topbar .logo {
+  font-size: 24px;
+  color: #fff;
+}
+
+.topbar .nav-links {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+.topbar .nav-links li {
+  display: flex;
+  align-items: center;
+}
+
+.topbar .nav-links a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+}
+
+.topbar .nav-links a:hover {
+  color: #000000;
+}
+
+/* Icon styling for links */
+.topbar .nav-links svg {
+  margin-right: 5px;
+}
+
+/* Auth links section */
+.topbar .auth-links {
+  display: flex;
+  gap: 20px;
+}
+
+.topbar .auth-links a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.topbar .auth-links a:hover {
+  color: #000000;
+}
